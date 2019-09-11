@@ -6,5 +6,5 @@ print(sys.executable)
 
 name = input("Your Name? ")
 print("Hello ,", name)
-print("Hi Vicky Hi hi hi hi")
+print("Hi Vicky Hi hi hi hi hi")
 
